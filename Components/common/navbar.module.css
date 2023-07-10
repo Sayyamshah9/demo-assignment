@@ -1,0 +1,20 @@
+.navbarStyling{
+    display: flex;
+    /* flex-direction: row; */
+    /* justify-content: space-b; */
+    align-items: center;
+}
+/* .navbarStyling :not(:last-child) {
+    margin-right: '1rem';
+} */
+.listStyle{
+    list-style-type: none;
+    font-size: 14px;
+}
+.navbarFlexStyling{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin: 0rem 1rem;
+}
