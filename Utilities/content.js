@@ -105,21 +105,6 @@ content.testimonials = {
     "Mauris non odio eleifend, eleifend est non, luctus diam. Vestibulum bibendum malesuada justo quis iaculis. Ut pulvinar sodales luctus.",
 };
 
-content.footer = [
-  {
-    heading: "Product",
-    list: ["Mauris", "eleifend", "eleifend", "Vestibulum", "bibendum"],
-  },
-  {
-    heading: "Resources",
-    list: ["Mauris", "eleifend", "eleifend", "Vestibulum", "bibendum"],
-  },
-  {
-    heading: "Reach Out",
-    list: ["Mauris", "eleifend", "eleifend", "Vestibulum", "bibendum"],
-  },
-];
-
 content.getQuote = [
   {
     ic: "check-circle.png",
@@ -132,5 +117,42 @@ content.getQuote = [
   {
     ic: "check-circle.png",
     text: "Get Top notch support from our cybersecurity & infrastructure management experts",
+  },
+];
+
+content.contactUs = [
+  {
+    heading: "Get Premium Support",
+    description:
+      "Our Wipro support engineers are highly skilled and experienced, Open-AudIT and all of our commercial products and helped customers from Telcos, MSP, enterprise organisations. We work closely with you during implementation and rollout, as well as post delivery of our solutions. and roll out our post delivery solutions ",
+    steps: [
+      { title: "Form", description: "Form Filling" },
+      {
+        title: "Get Call Back",
+        description: "Our Support engineer will get back to you within 1 hour",
+      },
+      { title: "Resolve", description: "Resolve your Queries" },
+    ],
+  },
+];
+
+content.resources = [
+  "Vivamus metus nibh, ornare non mattis ut, dapibus nec magna. Vivamus vestibulum sed arcu bibendum dictum. Ut posuere hendrerit massa, sed aliquam erat accumsan a.",
+  "Cras a dignissim ex, vitae dapibus orci. Suspendisse massa libero, hendrerit hendrerit imperdiet tristique, vulputate eget ex.",
+  "Proin blandit, sapien eget varius consectetur, purus augue dapibus leo, vel hendrerit urna leo non elit. Aliquam erat volutpat.",
+];
+
+content.footer = [
+  {
+    heading: "Product",
+    list: ["Mauris", "eleifend", "eleifend", "Vestibulum", "bibendum"],
+  },
+  {
+    heading: "Resources",
+    list: ["Mauris", "eleifend", "eleifend", "Vestibulum", "bibendum"],
+  },
+  {
+    heading: "Reach Out",
+    list: ["Mauris", "eleifend", "eleifend", "Vestibulum", "bibendum"],
   },
 ];
